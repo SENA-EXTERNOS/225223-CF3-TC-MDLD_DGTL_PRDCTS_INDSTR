@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 77%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 30%
+    right: 50%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 38%
+    right: 20%
 
 @keyframes float1
   0%
@@ -17,3 +21,75 @@
 
   100%
     transform: translateY(0px)
+
+.animation-rotation
+  &-1
+    animation: rotate 10s linear infinite
+    position: absolute
+    top: 15%
+    right: 72%
+  &-2
+    animation: rotate 8s linear infinite reverse
+    position: absolute
+    top: 25%
+    right: 40%
+  &-3
+    animation: rotate 10s linear infinite
+    position: absolute
+    top: 34%
+    right: 13%
+
+@keyframes rotate
+  0%
+    transform: rotate(0deg)
+    
+  100%
+    transform: rotate(360deg)
+    
+
+// COLORES CORTOS
+.cp
+  color: $color-primario !important
+
+.cs
+  color: $color-secundario !important
+  
+.cac
+  color: $color-acento-contenido !important
+
+.cab
+  color: $color-acento-botones !important
+
+.ch
+  color: $color-sistema-texto !important
+
+.cct
+  background-color: #AFE1EE !important
+
+.cft
+  background-color: #FFDCAB !important
+
+.cfpc
+  background-color: #DEE5E8 !important
+
+.cfct
+  background-color: #FEDCAB !important
+
+//BORDES
+.borde1
+  border-width: 4px
+  border-style: solid
+  border-radius: 20px
+  border-color: #30586C
+
+.borde2
+  border-width: 4px
+  border-style: solid
+  border-radius: 20px
+  border-color: #FD9A27
+
+.borde3
+  border-width: 4px
+  border-style: solid
+  border-radius: 20px
+  border-color: #13697F
