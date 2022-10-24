@@ -36,7 +36,7 @@
 
     p.mb-5 A continuación, se muestran algunos métodos de selección de propuestas:
 
-    SlyderA.mb-5
+    SlyderA(tipo="b").mb-5
       .row
         .col-md-6.mb-4.mb-md-0
           h4 

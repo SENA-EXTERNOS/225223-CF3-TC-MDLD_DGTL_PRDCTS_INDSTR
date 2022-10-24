@@ -36,7 +36,7 @@
       
     p  Algunos de los factores que influyen el producto son:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5.slyder-f.mb-5.chevron(columnas="col-lg-6 col-xl-4")
       .tarjeta.cft.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -249,11 +249,12 @@
         .h5.mb-2 Reinvertir:
         p En este caso, se utilizan los ingresos para hacer mejoras al producto.
 
-    .row.justify-content-center.align-items-center.mb-5.borde1
-      .col-4
+    .row.align-items-center.mb-5.tarjeta.borde1
+      .col-lg-4.bordeDerecho--cb1
         figure
           img(src='@/assets/curso/temas/tema1/img1-15.png', alt="Tablero de actividades")
-      .col-8
+      .col-lg-8
+        h4
         h4 Método SCRUM
         p Este es otro método para hacer que el trabajo en equipo sea más amigable cuando se refiere a crear productos. Esta herramienta se enfatiza en la creación de productos de corte digital, debido a que se involucra al equipo en grupos de 3 o 4 personas para dividir el trabajo en diferentes partes. Cada integrante del grupo debe realizar su parte en el menor tiempo posible, incorporándolo en un registro, de esta forma se pueden identificar, de manera puntual, los aciertos y errores (opciones de mejora) para optimizarlos en los siguientes encuentros.
 
@@ -262,6 +263,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img1-16.png', alt="Design thinking")
       .col-8
+        h4
         h4 Método 
           em Design thinking
         p Este método se utiliza para el desarrollo de una idea y se compone de 5 etapas. Se inicia con el desarrollo de la empatía, es decir que primero se invierte tiempo en comprender bien el problema que se desea resolver; luego se avanza hacia la definición, donde se extrae lo más importante de lo anterior y así quedarse con lo que da valor al producto, es decir un carácter único dentro de la industria. Después, se empieza la etapa la ideación, donde se proponen alternativas y soluciones, de esta manera, las que son seleccionadas se convierten en prototipo para la fase de testeo o prueba.
@@ -272,6 +274,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img1-17.png', alt="Design sprint")
       .col-8
+        h4
         h4 Método 
           em Design Sprint
         p Es un método que se basa en la retroalimentación de expertos y usuarios para definir funciones, detalles y otros aspectos del producto. Este método es propicio para la creación de prototipos. En este se cuenta con un tiempo determinado de máximo 5 días para que todo el proceso se cumpla.
