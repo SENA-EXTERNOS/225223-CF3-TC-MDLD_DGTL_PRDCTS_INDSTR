@@ -9,15 +9,15 @@
           figure
             img(src="@/assets/curso/ad.svg", alt="Mano señalando elementos")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Arrastrar y soltar
+        .titulo-segundo.color-acento-botones
+          h2 Identificar necesidades del cliente y ciclo de vida del producto
         p.mb-4 Este recorrido introductorio sobre la administración, proporciona conceptos claves de aplicación para la práctica empresarial y organizacional; por esta razón es importante realizar un repaso sobre los principales temas abordados, con la intención de afianzar y reforzar al aprendiz.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

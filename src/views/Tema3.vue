@@ -39,7 +39,7 @@
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-6.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
-                    h1 Introducción
+                    h4 Introducción
                     p El producto va a ser lanzado al mercado y presentado a los posibles clientes.
 
       .col-xl-3
@@ -48,7 +48,7 @@
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-7.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
-                    h1 Crecimiento
+                    h4 Crecimiento
                     p El producto ya está posicionado, los clientes empiezan a aceptarlo.
 
       .col-xl-3
@@ -57,7 +57,7 @@
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-8.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
-                    h1 Madurez
+                    h4 Madurez
                     p El producto ya ha cautivado a su público objetivo y está en un momento de estabilidad.
 
       .col-xl-3
@@ -66,7 +66,7 @@
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-9.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
-                    h1 Declive
+                    h4 Declive
                     p Algunos productos que llegan a esta fase pueden quedar obsoletos por un nuevo modelo y en correspondencia diseñar acciones pertinentes para cada una de estas.
 
     .row.justify-content-center.align-items-center.mb-5
