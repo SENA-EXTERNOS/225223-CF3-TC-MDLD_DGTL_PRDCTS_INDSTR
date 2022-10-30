@@ -8,27 +8,27 @@ export default {
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
-        clases: ['animation-rotation-1', 'd-none', 'd-lg-block'],
+        clases: ['animation-rotation-1', 'd-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
-        clases: ['animation-rotation-2', 'd-none', 'd-lg-block'],
+        clases: ['animation-rotation-2', 'd-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
       {
-        clases: ['animation-rotation-3', 'd-none', 'd-lg-block'],
+        clases: ['animation-rotation-3', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        clases: ['banner-principal-decorativo-1', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
+        clases: ['banner-principal-decorativo-2', 'd-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-3'],
+        clases: ['banner-principal-decorativo-3', 'd-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-6.svg'),
       },
     ],
