@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-botones
           h2 Identificar necesidades del cliente y ciclo de vida del producto
-        p.mb-4 Este recorrido introductorio sobre la administración, proporciona conceptos claves de aplicación para la práctica empresarial y organizacional; por esta razón es importante realizar un repaso sobre los principales temas abordados, con la intención de afianzar y reforzar al aprendiz.
+        p.mb-4 A continuación, se encuentran unos enunciados relacionados con la experiencia de aprendizaje. Por medio de esta actividad se podrán validar los conocimientos adquiridos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

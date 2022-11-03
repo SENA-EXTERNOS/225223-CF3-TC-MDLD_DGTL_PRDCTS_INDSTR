@@ -115,7 +115,7 @@
             em The Minimum Viable Audience
             |), representa la audiencia más pequeña posible que puede sostener un producto, bien o servicio a medida que comienza un mercado pequeño. Una de las características distintivas del MVA es acercarse a los mercados ya existentes, para encontrar puntos en común donde haya personas (clientes) insatisfechas con los productos que se ofrecen, ya que no cumplen con sus iniciativas o gustos. Es decir, que esta audiencia mínima viable no intenta hacer algo para un grupo global, al contrario, lo que quiere es realizar o construir un producto, bien o servicio, que satisfaga una pequeña porción de la población objetiva; acudiendo a su insatisfacción no resuelta en el mercado comercial.
           p Puntos claves para tener en cuenta:
-          p El aspecto principal del MVA (Audiencia Mínima Viable) es acercarse a los mercados ya existentes para encontrar a aquellas clientes, que no están satisfechas y así lograr construir algo de manera excepcional dando respuestas a sus demandas equipo de trabajo.
+          p El aspecto principal del MVA (Audiencia Mínima Viable) es acercarse a los mercados ya existentes para encontrar a aquellas clientes, que no están satisfechas y así lograr construir algo de manera excepcional dando respuestas a sus demandas.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema2/img2-6.png', alt='Manos en portátil y celular')

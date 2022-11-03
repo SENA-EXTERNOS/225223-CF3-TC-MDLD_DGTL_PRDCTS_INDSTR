@@ -249,7 +249,7 @@
         .h5.mb-2 Reinvertir:
         p En este caso, se utilizan los ingresos para hacer mejoras al producto.
 
-    .row.align-items-center.mb-5.tarjeta.borde1
+    .row.mb-5.tarjeta.borde1
       .col-lg-4.bordeDerecho--cb1
         figure
           img(src='@/assets/curso/temas/tema1/img1-15.png', alt="Tablero de actividades")
@@ -258,8 +258,8 @@
         h4 Método SCRUM
         p Este es otro método para hacer que el trabajo en equipo sea más amigable cuando se refiere a crear productos. Esta herramienta se enfatiza en la creación de productos de corte digital, debido a que se involucra al equipo en grupos de 3 o 4 personas para dividir el trabajo en diferentes partes. Cada integrante del grupo debe realizar su parte en el menor tiempo posible, incorporándolo en un registro, de esta forma se pueden identificar, de manera puntual, los aciertos y errores (opciones de mejora) para optimizarlos en los siguientes encuentros.
 
-    .row.align-items-center.mb-5.borde2
-      .col-4
+    .row.mb-5.borde2
+      .col-4.bordeDerecho--cb2
         figure
           img(src='@/assets/curso/temas/tema1/img1-16.png', alt="Design thinking")
       .col-8
@@ -269,8 +269,8 @@
         p Este método se utiliza para el desarrollo de una idea y se compone de 5 etapas. Se inicia con el desarrollo de la empatía, es decir que primero se invierte tiempo en comprender bien el problema que se desea resolver; luego se avanza hacia la definición, donde se extrae lo más importante de lo anterior y así quedarse con lo que da valor al producto, es decir un carácter único dentro de la industria. Después, se empieza la etapa la ideación, donde se proponen alternativas y soluciones, de esta manera, las que son seleccionadas se convierten en prototipo para la fase de testeo o prueba.
         p Lo más notable que tiene este método es que permite regresar a etapas anteriores de manera ilimitada, las veces que sea necesario según sea el caso, siempre y cuando se cumpla la condición de alcanzar los objetivos presupuestados.
 
-    .row.align-items-center.mb-5.borde3
-      .col-4
+    .row.mb-5.borde3
+      .col-4.bordeDerecho--cb3
         figure
           img(src='@/assets/curso/temas/tema1/img1-17.png', alt="Design sprint")
       .col-8
