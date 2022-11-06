@@ -3,6 +3,15 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
+    .row.mb-5
+      .col-md-11
+        .titulo-sexto.color-acento-botones.mb-5
+            h4 Modelado digital de productos industriales
+            p.mb-0 Síntesis: identificar las necesidades del cliente y ciclo de vida del producto.
+      .col-md-1
+        figure.logo-size
+          img(src="@/assets/curso/temas/logo.svg", alt="alt")
+
     p.mb-5 Se recomienda revisar cuidadosamente el siguiente mapa conceptual, que permite analizar el contenido visto acerca de las necesidades del cliente y el ciclo de vida del producto:
 
     .row.justify-content-center
