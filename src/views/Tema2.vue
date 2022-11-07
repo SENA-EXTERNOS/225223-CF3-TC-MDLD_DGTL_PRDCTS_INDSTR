@@ -42,7 +42,9 @@
           .col-md-6.mb-4.mb-md-0
             h4 
               em Focus group 
-            p El grupo de enfoque de discusión o Focus group, es una técnica de tipo colaborativo en la que diferentes personas se encuentran a fin de resolver una problemática específica, es algo similar a lo que se conoce o se denomina como lluvia de ideas. Se utiliza en el campo laboral con diversos propósitos, que pueden ir, desde la selección del personal, hasta el lanzamiento de un nuevo producto de la empresa.
+            p El grupo de enfoque de discusión o 
+             em Focus group
+             |, es una técnica de tipo colaborativo en la que diferentes personas se encuentran a fin de resolver una problemática específica, es algo similar a lo que se conoce o se denomina como lluvia de ideas. Se utiliza en el campo laboral con diversos propósitos, que pueden ir, desde la selección del personal, hasta el lanzamiento de un nuevo producto de la empresa.
             p Esta técnica sirve para aplicar en una gran cantidad de situaciones, de forma interna, por ejemplo, para conocer el punto de vista de los empleados acerca de un tema específico. También es útil para conocer la opinión de los consumidores acerca de alguno productos o servicios que se tengan como es nuestro caso. En conclusión, esta técnica puede ser de mucha utilidad cuando se necesita recoger la opinión de diferentes personas en un tema en particular, ya que esta información será de gran utilidad en el momento de tomar decisiones frente al producto a diseñar.
           .col-md-6
             figure
