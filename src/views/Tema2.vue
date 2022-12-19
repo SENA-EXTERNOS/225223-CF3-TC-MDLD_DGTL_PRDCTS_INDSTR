@@ -11,14 +11,15 @@
       .col-md-7
         p Los métodos para tomar una propuesta adecuada consisten en 
           b técnicas creativas y colaborativas. 
-          | Por ello, la selección se presenta las siguientes características:
-        p Se genere más rápido y, por consiguiente, la propuesta tenga un valor adicional a lo que requiere el público objetivo o cliente potencial, según la necesidad.
-
+          | Por ello, la selección presenta las siguientes características:
+        
         ol
           li.mb-3
             i.fas.fa-square.cab.me-3
+            | Se genere más rápido y, por consiguiente, la propuesta tenga un valor adicional a lo que requiere el público objetivo o cliente potencial, según la necesidad.
+          li.mb-3
+            i.fas.fa-square.cab.me-3
             | Investigar qué público objetivo o clientes insatisfechos no ha cubierto en el mercado. Esto es muy importante, debido a que con ello se puede generar o encontrar un punto en común del producto.
-
           li
             i.fas.fa-square.cab.me-3
             | La necesidad de los clientes es un aspecto que se puede profundizar para dar mejores frutos, realizándoles entrevistas para conocer sus expectativas y requerimientos.
@@ -64,17 +65,17 @@
             p Habiendo conocido lo que significa y las implicaciones que tiene en la selección de la propuesta se abordarán las ventajas y desventajas.
             p
               b Ventajas
-            | Permite conocer de una manera más profunda, las capacidades que tienen los miembros del  equipo de trabajo.
             
             ol
               li.mb-3
                 i.fas.fa-square.cab.me-3
+                | Permite conocer de una manera más profunda, las capacidades que tienen los miembros del  equipo de trabajo.
+              li.mb-3
+                i.fas.fa-square.cab.me-3
                 | Posibilita recoger ideas(nuevas) e información, para así mejorar la toma de decisiones.
-
               li.mb-3
                 i.fas.fa-square.cab.me-3
                 | Descubre enfoques y estrategias nuevas, respecto a un tema en especifico.
-
               li.mb-3
                 i.fas.fa-square.cab.me-3
                 | Aumenta la eficacia (trabajo en equipo), reduciendo el tiempo gastado si se realiza de manera individual.
