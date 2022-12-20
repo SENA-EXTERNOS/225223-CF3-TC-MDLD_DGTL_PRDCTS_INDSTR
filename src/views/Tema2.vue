@@ -61,7 +61,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h3 2. Ventajas y desventajas del 
+            h3 Ventajas y desventajas del 
               em Focus group 
             p Habiendo conocido lo que significa y las implicaciones que tiene en la selección de la propuesta se abordarán las ventajas y desventajas.
             p
@@ -115,7 +115,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 
-              b 3. Matriz MVA
+              b 2. Matriz MVA
             p La audiencia mínima viable representado en sus siglas como MVA (
               em The Minimum Viable Audience
               |), representa la audiencia más pequeña posible que puede sostener un producto, bien o servicio a medida que comienza un mercado pequeño. Una de las características distintivas del MVA es acercarse a los mercados ya existentes, para encontrar puntos en común donde haya personas (clientes) insatisfechas con los productos que se ofrecen, ya que no cumplen con sus iniciativas o gustos. Es decir, que esta audiencia mínima viable no intenta hacer algo para un grupo global, al contrario, lo que quiere es realizar o construir un producto, bien o servicio, que satisfaga una pequeña porción de la población objetiva; acudiendo a su insatisfacción no resuelta en el mercado comercial.
@@ -127,8 +127,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 
-              b Entrevista con el cliente
+            h4: b 3. Entrevista con el cliente
             p El entrevistar a los clientes es una parte importante en la creación de un producto industrial y/o una empresa, implica salir a hablar con las personas que se cree, pueden ser futuros clientes, esto es muy valioso y se recomienda hacerlo desde el primer momento en que se genera la idea del producto. Al realizar esta actividad de conversar o entrevistar a un cliente potencial, ya se está gestando de manera indirecta y fácil el estudio de mercado del producto. Además, con estas interacciones con el público, se da la posibilidad de generar conocimiento validado por su experiencia en el mercado.
             p Las entrevistas a clientes son acciones necesarias, ya que constituyen una herramienta esencial que se debe conocer, dominar y aplicar de manera adecuada. Por último, siempre se debe de tener claro, cuál será la información que se quiere obtener, la formulación correcta de las preguntas y a qué personas van dirigidas.
             
