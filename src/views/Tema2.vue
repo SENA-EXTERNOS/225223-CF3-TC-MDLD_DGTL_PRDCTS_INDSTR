@@ -39,9 +39,9 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b").mb-5
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 
+            h3 1.  
               em Focus group 
             p El grupo de enfoque de discusión o 
              em Focus group
@@ -51,16 +51,17 @@
             figure
               img(src='@/assets/curso/temas/tema2/img2-2.png', alt='Reunión de personas')
 
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
+            h4 ¿Cómo se aplica?
             p Para realizar esta técnica se reúnen de 6 a 10 personas aproximadamente, en un lugar que sea lo más tranquilo posible, los escenarios para ello pueden ser una sala de juntas o de conferencias, etc. En este espacio se debate inicialmente sobre un tema determinado, allí las personas dan su punto de vista, también proponen ideas, que son debatibles e interpeladas por sus pares o compañeros de trabajo. Para que esto fluya organizada y adecuadamente, se debe tener un moderador, por lo general o lo más apropiado, es que este tenga un cargo directivo dentro de la compañía; los expertos indican que es conveniente tener una persona externa para ello, quien cumpla este rol, tendrá la función de dirigir la reunión, moderar los momentos de las intervenciones y por supuesto escribir para dejar un registro, bajo el criterio de la imparcialidad.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img2-3.png', alt='Reunión de personas')
 
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Ventajas y desventajas del 
+            h3 2. Ventajas y desventajas del 
               em Focus group 
             p Habiendo conocido lo que significa y las implicaciones que tiene en la selección de la propuesta se abordarán las ventajas y desventajas.
             p
@@ -84,9 +85,9 @@
             figure
               img(src='@/assets/curso/temas/tema2/img2-4.png', alt='Personas revisando diseños')
 
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Desventajas
+            p: b Desventajas
             p Por otro lado, y en cuanto a las desventajas de los 
               em focus group:
                       
@@ -111,10 +112,10 @@
             figure
               img(src='@/assets/curso/temas/tema2/img2-5.png', alt='Personas reunidas en un salón')
 
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 
-              b Matriz MVA
+              b 3. Matriz MVA
             p La audiencia mínima viable representado en sus siglas como MVA (
               em The Minimum Viable Audience
               |), representa la audiencia más pequeña posible que puede sostener un producto, bien o servicio a medida que comienza un mercado pequeño. Una de las características distintivas del MVA es acercarse a los mercados ya existentes, para encontrar puntos en común donde haya personas (clientes) insatisfechas con los productos que se ofrecen, ya que no cumplen con sus iniciativas o gustos. Es decir, que esta audiencia mínima viable no intenta hacer algo para un grupo global, al contrario, lo que quiere es realizar o construir un producto, bien o servicio, que satisfaga una pequeña porción de la población objetiva; acudiendo a su insatisfacción no resuelta en el mercado comercial.
@@ -124,7 +125,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img2-6.png', alt='Manos en portátil y celular')
 
-        .row
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 
               b Entrevista con el cliente

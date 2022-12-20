@@ -12,8 +12,8 @@
         .titulo-segundo.color-acento-botones
           h2 Identificar necesidades del cliente y ciclo de vida del producto
 
-        p "Apreciado aprendiz, el objetivo de esta actividad es asociar los conceptos relacionados al ciclo de vida de un producto, las necesidades del cliente y métodos utilizados, junto a sus definiciones correspondientes, los cuales fueron vistos en este componente.
-        p Arrastre la palabra que considere correcta como respuesta a la descripción dada, de esta forma puede repasar los temas que se deben tener en cuenta para los procesos de diseños y el ciclo de vida de los productos."			
+        p Apreciado aprendiz, el objetivo de esta actividad es asociar los conceptos relacionados al ciclo de vida de un producto, las necesidades del cliente y métodos utilizados, junto a sus definiciones correspondientes, los cuales fueron vistos en este componente.
+        p Arrastre la palabra que considere correcta como respuesta a la descripción dada, de esta forma puede repasar los temas que se deben tener en cuenta para los procesos de diseños y el ciclo de vida de los productos.
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

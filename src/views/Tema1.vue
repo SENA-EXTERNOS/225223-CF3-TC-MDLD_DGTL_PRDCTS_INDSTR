@@ -143,7 +143,7 @@
 
     figure.mb-5
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/dQFsXVX3Sk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
 
@@ -229,7 +229,7 @@
 
       .tarjeta.cfpc.p-3(x="22%" y="25%" numero="+")
         .h5.mb-2 Combinar:
-        p Con respecto a los automóviles eléctrinos, se combinan el automóvil tradicional con las baterías eléctricas.
+        p Es unir dos productos en uno, como por ejemplo en los automóviles eléctricos, se combinan el automóvil tradicional con las baterías eléctricas.
 
       .tarjeta.cfpc.p-3(x="35%" y="25%" numero="+")
         .h5.mb-2 Adaptar:
