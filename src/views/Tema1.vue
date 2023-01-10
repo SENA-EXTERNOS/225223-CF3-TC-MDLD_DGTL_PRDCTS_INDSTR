@@ -88,19 +88,19 @@
             ol
               li
                 i.fas.fa-square.cab.me-3
-                | En qué etapa de su vida se sitúan en la actualidad
+                | En qué etapa de su vida se sitúan en la actualidad.
 
               li
                 i.fas.fa-square.cab.me-3
-                | Sus aspiraciones
+                | Sus aspiraciones.
 
               li
                 i.fas.fa-square.cab.me-3
-                | Cómo es su comportamiento de compra
+                | Cómo es su comportamiento de compra.
 
               li
                 i.fas.fa-square.cab.me-3
-                | En qué productos gastan su dinero
+                | En qué productos gastan su dinero.
 
             p Con estas características, se va generando un perfil del cliente ideal, haciéndolo compatible con el producto a realizar.
             p Con este perfil, se tiene una base sólida para que se elija la apariencia del producto, sus funciones, y hasta dar paso para hacer una adecuada estrategia de 
@@ -176,7 +176,9 @@
 
       div(x="67%" y="32%" tooltip="Planificación del proceso" numero="")
         .h5.mb-2 Planificación del proceso
-        p En esta etapa es donde tiene incidencia el boceto, de igual manera aplica para cualquier producto, software o servicio que se tenga en mente. Este boceto debe tener la apariencia y el aspecto de como luciría este, una vez se encuentre fabricado; ya sea, para que lo observe un cliente de manera física o mediante la pantalla de un computador, como en es el caso cuando se usan los programas CAD.
+        p En esta etapa es donde tiene incidencia el boceto, de igual manera aplica para cualquier producto, 
+          em software 
+          | o servicio que se tenga en mente. Este boceto debe tener la apariencia y el aspecto de como luciría este, una vez se encuentre fabricado; ya sea, para que lo observe un cliente de manera física o mediante la pantalla de un computador, como en es el caso cuando se usan los programas CAD.
         p Fuera de lo anterior, se establecen medidas, funciones, materiales de la idea, se pueden agregar o eliminar aspectos o tópicos a medida que se avance, dependiendo de los resultados de la investigación que se haya  realizado. Al tener en el equipo de trabajo colaboradores, se puede facilitar encontrar las soluciones más apropiadas, obviamente dependiendo del público objetivo al cual se esté dirigiendo, por ello las opciones que expresan estos colaboradores son muy preciadas.
 
       div(x="92%" y="32%" tooltip="Creación de prototipos" numero="")
@@ -227,7 +229,7 @@
 
       .tarjeta.cfpc.p-3(x="22%" y="25%" numero="+")
         .h5.mb-2 Combinar:
-        p Es unir dos productos en uno, como lo son los automóviles eléctricos.
+        p Es unir dos productos en uno, como por ejemplo en los automóviles eléctricos, se combinan el automóvil tradicional con las baterías eléctricas.
 
       .tarjeta.cfpc.p-3(x="35%" y="25%" numero="+")
         .h5.mb-2 Adaptar:
