@@ -141,7 +141,7 @@ export default {
     {
       tema: '<em>Focus group</em>',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2020). <em>Interpretación de datos1</em>. [Video]. Youtube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2020). <em>Recolección de información - parte 1.</em> [Video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rAqeHpglhc0',
     },
