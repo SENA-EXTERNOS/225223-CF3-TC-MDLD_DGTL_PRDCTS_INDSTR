@@ -28,7 +28,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img1-1.png', alt="Manos dibujando un proceso")
 
-    p.mb-5 Por tanto, es probable que se comience a clarificar o tener un panorama más claro sobre lo que es el proceso de diseño de producto, el cual puede tener factores que influyen en este, por tal motivo se explicaran los cinco más influyentes.
+    p.mb-5 Por tanto, es probable que se comience a clarificar o tener un panorama más claro sobre lo que es el proceso de diseño de producto, el cual puede tener factores que influyen en este, por tal motivo se explicarán los cinco más influyentes.
 
     h3
       i.fas.fa-circle.cab.me-3
@@ -171,7 +171,7 @@
       div(x="41%" y="32%" tooltip="Investigación" numero="")
         .h5.mb-2 Investigación
         p En esta etapa se gesta la idea inicial y se permite sustentar el diseño, para luego considerar cómo deberá ser la realización o fabricación del producto.
-        p Así mismo, se busca que haya una validación de la idea general y se interpretan datos que demuestren lo innovadora o pertinente que esta pueda llegar a ser; lo anterior se puede realizar mediante una investigación de mercado con la que se conoce a fondo las propuestas que más se asemejan o se ajusten al problema a resolver; así mismo, se indaga en qué tan complicado o costoso o sería conseguir las materias primas de la idea, entre otros aspectos importantes.
+        p Así mismo, se busca que haya una validación de la idea general y se interpretan datos que demuestren lo innovadora o pertinente que esta pueda llegar a ser; lo anterior se puede realizar mediante una investigación de mercado con la que se conoce a fondo las propuestas que más se asemejan o se ajusten al problema a resolver; así mismo, se indaga en qué tan complicado o costoso, sería conseguir las materias primas de la idea, entre otros aspectos importantes.
         p Cuando se concluya esta etapa, se tendrá con una mayor certeza, una idea más definida del tipo de inversión que se requiere, así como las herramientas para realizar la producción, comercialización y venta de este.
 
       div(x="67%" y="32%" tooltip="Planificación del proceso" numero="")

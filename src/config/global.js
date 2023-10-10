@@ -56,7 +56,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Fases',
+            titulo: 'Fases para la realización de un diseño',
             hash: 't_1_1',
           },
           {
